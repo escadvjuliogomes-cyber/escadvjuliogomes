@@ -1,0 +1,202 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: blue;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 12px;
+}
+
+.cabecalho {
+    background-color: black;
+    color: white;
+    height: 33px;
+    margin: -10px -10px 13px -10px;
+}
+
+.logo {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    width: 30px;
+}
+
+nav {
+    background-color: #000000;
+    height: 44px;
+}
+
+nav p {
+    background-color: rgb(93, 90, 85);
+    border: 1px solid #000000;
+    margin: 7px;
+    padding: 13px;
+}
+
+main {
+    color: black;
+    margin: 33px;
+}
+
+
+article {
+    background-color: white;
+    border-radius: 13px;
+    color: black;
+    padding: 7px;
+    margin: 10px auto 10px auto;
+}
+
+article a {
+    color: black;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.esquerda {
+    float: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.direita {
+    float: right;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+a {
+    color: white;
+}
+
+
+.rodapearticle {
+    background-color: white;
+    font-size: 21px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sobre {
+    background-color: aquamarine;
+    border-radius: 13px;
+    margin: 13px;
+    padding: 13px;
+    text-align: justify;
+}
+
+.contatos {
+    background-color: aquamarine;
+    border-radius: 13px;
+    margin: 13px;
+    padding: 13px;
+    text-align: justify;
+}
+
+.iframe {
+    background-color: aquamarine;
+    border-radius: 13px;
+    margin: 13px;
+    text-align: center;
+    padding: 13px;
+}
+
+/*  width="600" height="450" style="border:0;" allowfullscreen="" */
+.mapa {
+    border: 0px;
+    border-radius: 13px;
+    height: 450px;
+    text-align: center;
+    width: 600px;
+
+}
+
+footer {
+    background-color: blueviolet;
+    margin: -10px -10px 13px -10px;
+    padding: 10px;
+}
+
+.footertitulo {
+    font-size: 21px;
+}
+
+.footerconteudo {
+    font-size: 10px;
+}
+
+@media (min-width:320px) { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ }
+
+@media (min-width:480px) { /* smartphones, Android phones, landscape iPhone */ }
+
+body {
+    max-width: 599px;
+}
+@media (min-width:600px) { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ }
+
+body {
+    max-width: 801px;
+}
+
+h1 {
+    font-size: 13px;
+}
+
+@media (min-width:801px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+
+body {
+    max-width: 1024px;
+}
+
+h1 {
+    font-size: 21px;
+}
+
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+
+body {
+    background-color: antiquewhite;
+    max-width: 1280px;
+}
+
+.cabecalho {
+    width: 100%;
+    margin-right: -30px;
+}
+
+h1 {
+    font-size: 33px;
+}
+
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
+
+body {
+    background-color: aqua;
+    width: 100%;
+}
+
+.cabecalho {
+    width: 100%;
+    margin-right: -30px;
+}
