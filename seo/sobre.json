@@ -1,0 +1,225 @@
+{
+
+  "_PROJETO": "Escritório de Advocacia Julio Gomes",
+  "_PÁGINA": "Trajetória Profissional (Sobre)",
+  "_DOMÍNIO":   "https://www.juliogomes.adv.br/trajetoria-profissional--julio--Gomes",
+  "_DOCUMENTO": "Dados Estruturados (Schema.org) - JSON-LD (AboutPage)",
+  "_DESENVOLVEDOR": "Cleber Silva Lopes Junior",
+  "_DATA DE CRIAÇÃO": "05 de Março de 2026",
+  "_TIPO DE SCHEMA": "AboutPage + Person (E-E-A-T Focus)",
+  "_DESCRIÇÃO": "Código para reforçar a autoridade individual do Dr. Julio Gomes. Focado em experiência, formação acadêmica e reconhecimento profissional.",
+
+  "@context": "https://schema.org",
+
+  "@type": "AboutPage",
+
+  "mainEntity": {
+
+    "@type": "Person",
+
+    "name": "Julio Cezar de Oliveira Gomes",
+
+    "alternateName": [
+
+      "Advogado Julio Cezar de Oliveira Gomes",
+
+      "Advogado Julio Gomes",
+
+      "Adv. Julio Cezar de Oliveira Gomes",
+
+      "Adv. Julio Gomes",
+
+      "Dr. Julio Cezar de Oliveira Gomes",
+
+      "Dr. Julio Gomes"
+
+    ],
+
+    "jobTitle": "Advogado",
+
+    "description": "Advogado com vasta experiência em Direito do Consumidor, Cível, Família, INSS e Trabalhista em Ilhéus, BA.",
+
+    "identifier": "OAB/BA 28.966",
+
+    "url": "https://www.juliogomes.adv.br/trajetoria-profissional--julio--Gomes",
+
+    "logo": "https://i.postimg.cc/sXLCtgkw/Logomarca_Oficial_-_Escritório_de_Advocacia_Julio_Gomes.jpg",
+
+    "image": "https://i.postimg.cc/sXLCtgkw/Logomarca_Oficial_-_Escritório_de_Advocacia_Julio_Gomes.jpg",
+
+    "alumniOf": {
+
+      "@type": "CollegeOrUniversity",
+
+      "name": "UESC - Universidade Estadual Santa Cruz"
+
+    },
+
+    "award": "Membro da Ordem dos Advogados do Brasil - Seccional Bahia",
+
+    "knowsAbout": [
+
+      "Direito do Consumidor",
+
+      "Direito de Família",
+
+      "Direito Previdenciário",
+
+      "Direito Civil",
+
+      "Direito do Trabalho"
+
+    ],
+
+    "worksFor": {
+
+      "@type": "LegalService",
+
+      "name": "Escritório de Advocacia Julio Gomes e Parceiros",
+
+      "alternateName": [
+        "Escritório do Advogado Julio Cezar de Oliveira Gomes",
+
+        "Escritório do Advogado Julio Gomes",
+
+        "Escritório do Adv. Julio Cezar de Oliveira Gomes",
+
+        "Escritório do Adv. Julio Gomes",
+
+        "Escritório do Dr. Julio Cezar de Oliveira Gomes",
+
+        "Escritório do Dr. Julio Gomes",
+
+        "Escritório de Advocacia Julio Cezar de Oliveira Gomes",
+
+        "Escritório de Advocacia Julio Gomes",
+
+        "Escritório de Advocacia do Dr. Julio Cezar de Oliveira Gomes",
+
+        "Escritório de Advocacia do Dr. Julio Gomes"
+      ],
+
+      "description": "Escritório especializado em Direito do Consumidor, Cível, Família, INSS e Trabalhista em Ilhéus, BA.",
+
+      "url": "https://www.juliogomes.adv.br",
+
+      "logo": "https://i.postimg.cc/sXLCtgkw/Logomarca_Oficial_-_Escritório_de_Advocacia_Julio_Gomes.jpg",
+
+      "image": "https://i.postimg.cc/sXLCtgkw/Logomarca_Oficial_-_Escritório_de_Advocacia_Julio_Gomes.jpg",
+
+      "priceRange": "Sob Consulta",
+
+      "hasMap": "https://maps.app.goo.gl/wP1LYcTqTTHxShLN9",
+
+      "publicAccess": true,
+
+      "areaServed": [
+        "Ilhéus",
+        "Itabuna",
+        "Região Cacaueira"
+      ],
+
+      "openingHours": "Mo-Fr 08:00-12:00, 14:00-18:00",
+
+      "address": {
+
+        "@type": "PostalAddress",
+
+        "streetAddress": "Rua Bento Berilo, nº 201, Ed. MMST, sala 204, Centro",
+
+        "addressLocality": "Ilhéus",
+
+        "addressRegion": "BA",
+
+        "postalCode": "45653-270",
+
+        "addressCountry": "BR"
+
+      },
+
+      "telephone": ["+55-73-3634-6098", "+55-73-98842-8361"],
+
+      "email": "advjuliogomes33@gmail.com",
+
+      "sameAs": [
+
+        "https://www.linkedin.com/in/escrit%C3%B3rio-de-advocacia-julio-gomes-9b6b32385/",
+
+        "https://www.instagram.com/escritorioadvjuliogomes/",
+
+        "https://www.facebook.com/advjuliogomes/?locale=pt_BR"
+
+      ],
+
+      "geo": {
+
+        "@type": "GeoCoordinates",
+
+        "latitude": "-14.795384",
+
+        "longitude": "-39.032678"
+
+      }
+
+    }
+
+  },
+
+  "publisher": {
+
+    "@type": "Organization",
+
+    "name": "Escritório de Advocacia Julio Gomes",
+
+    "logo": {
+
+      "@type": "ImageObject",
+
+      "url": "https://i.postimg.cc/sXLCtgkw/Logomarca_Oficial_-_Escritório_de_Advocacia_Julio_Gomes.jpg"
+
+    }
+
+  },
+
+  "creator": {
+
+    "@type": "Person",
+
+    "name": "Cleber Silva Lopes Junior",
+
+    "jobTitle": "Web Developer",
+
+    "telephone": "+55-73-99900-8757",
+
+    "email": "cleberslopesjr@gmail.com",
+
+    "sameAs": [
+      "https://www.cslj.dev.br/",
+
+      "https://www.facebook.com/cslj.dev/",
+
+      "https://www.facebook.com/Blogdocleberslopesjr",
+
+      "https://www.instagram.com/cleberslopesjr",
+
+      "https://twitter.com/cleberslopesjr",
+
+      "https://gab.com/cleberslopesjr",
+
+      "https://gettr.com/user/cleberslopesjr"
+
+    ]
+
+  },
+
+  "copyrightHolder": {
+
+    "@type": "Organization",
+
+    "name": "Escritório de Advocacia Julio Gomes"
+
+  },
+
+  "copyrightYear": "2026"
+
+}
